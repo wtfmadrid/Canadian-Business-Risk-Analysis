@@ -1,0 +1,46 @@
+﻿"Experimental estimates for business openings and closures by employment size for Canada, provinces and territories, census metropolitan areas, seasonally adjusted 1 2 3"
+"Frequency: Monthly"
+"Table: 33-10-0722-01"
+"Release date: 2025-12-18"
+"Geography: Canada, Province or territory, Census metropolitan area"
+""
+""
+
+"Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Industry","Beverage and tobacco product manufacturing [312]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Employment size","Total, all employment sizes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Business dynamics measure","January 2022","February 2022","March 2022","April 2022","May 2022","June 2022","July 2022","August 2022","September 2022","October 2022","November 2022","December 2022","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023","October 2023","November 2023","December 2023","January 2024","February 2024","March 2024","April 2024","May 2024","June 2024","July 2024","August 2024","September 2024","October 2024","November 2024","December 2024","January 2025","February 2025","March 2025","April 2025","May 2025","June 2025","July 2025","August 2025","September 2025"
+,"Number",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Active businesses 4","1,625","1,632","1,656","1,660","1,646","1,642","1,638","1,649","1,655","1,664","1,674","1,660","1,670","1,675","1,663","1,669","1,679","1,678","1,675","1,678","1,657","1,641","1,658","1,679","1,662","1,651","1,649","1,656","1,649","1,650","1,650","1,644","1,642","1,631","1,623","1,619","1,609","1,599","1,601","1,593","1,599","1,594","1,601","1,603","1,599"
+"Opening businesses 5","47","83","65","45","39","47","47","63","54","66","52","43","57","54","50","59","60","49","49","48","45","43","57","60","50","44","58","56","52","54","49","53","57","44","50","56","48","49","52","53","58","56","75","52","47"
+"Continuing businesses 6","1,576","1,557","1,591","1,612","1,609","1,596","1,590","1,584","1,600","1,601","1,620","1,615","1,612","1,623","1,614","1,611","1,618","1,632","1,629","1,628","1,611","1,599","1,601","1,614","1,610","1,606","1,590","1,602","1,599","1,598","1,606","1,590","1,585","1,588","1,572","1,559","1,558","1,548","1,546","1,542","1,542","1,539","1,536","1,549","1,552"
+"Closing businesses 7","47","63","43","45","50","54","54","55","49","52","46","56","47","47","58","54","50","48","49","46","69","56","42","44","62","55","58","49","59","53","41","64","62","54","62","63","56","58","51","62","50","64","60","53","54"
+"Reopening businesses 8","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x"
+"Entrants 9","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x"
+"Temporary closures 7 10","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","..","..","..","..","..",".."
+"Exits 7 11","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+x, suppressed to meet the confidentiality requirements of the Statistics Act
+
+
+
+
+Footnotes:
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated."
+2,"The statistical unit of measures used is the enterprise, which represents the highest level of the Business Register statistical hierarchy. In alignment with the System of National Accounts, it is defined as an institutional unit that directs and controls the allocation of resources relating to its operations, and for which financial statements are maintained from which international transactions, an international investment position and a financial position for the unit can be derived. Enterprises can be corporations, quasi-corporations, institutions, or unincorporated businesses such as sole proprietors or partnerships. For incorporated enterprises, financial statements can be consolidated. While the vast majority of enterprises have operations in a single geographical area and in a single industry, large enterprise can have activities in multiple industries and multiple geographical areas. Enterprises with operations in multiple industries or provinces are counted in each relevant industry and geography. This approach ensures a more accurate reflection of business activity across industries and regions. However, it also means that the sum of disaggregated data (by industry or geography) may exceed totals at the aggregate level, where each enterprise is counted only once."
+3,"Estimates in this table may differ from those in table 33-10-0270-01 due to the adjustment for seasonality applied separately for each series."
+4,"Active businesses are those businesses that reported having one or more employees in a given month."
+5,"Opening businesses are businesses that transition from having no employees in the previous month to having at least one employee in the current month. These instances occur when a new, small firm begins, when a large firm opens a new establishment or when a seasonal firm re-opens."
+6,"Continuing businesses are businesses that have at least one employee in the previous month and at least one employee in the current month."
+7,"For closures and exits, employment size corresponds to the average number of employees over the twelve months preceding the closure or the exit."
+8,"Reopening businesses are defined as opening businesses that were also active in a previous month."
+9,"Entrants are businesses with employment in the current month that were not active in any previous month in the current or previous year."
+10,"A temporary business closure is the difference between closures and exits."
+11,"The definition of exits is based on the Longitudinal Employment Analysis Program (LEAP) annual exits. Because the LEAP definition can require up to 24 months of data to be counted as an exit, projections of exits using predicted growth rates are implemented using a regression model of exits on closures of more than 6 months. As a result, there are no published exits in the last six months."
+
+
+
+"How to cite: Statistics Canada. Table 33-10-0722-01  Experimental estimates for business openings and closures by employment size for Canada, provinces and territories, census metropolitan areas, seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310072201

@@ -1,0 +1,45 @@
+﻿"Experimental estimates for business openings and closures by employment size for Canada, provinces and territories, census metropolitan areas, seasonally adjusted 1 2 3"
+"Frequency: Monthly"
+"Table: 33-10-0722-01"
+"Release date: 2025-12-18"
+"Geography: Canada, Province or territory, Census metropolitan area"
+""
+""
+
+"Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Industry","Business sector industries [T004]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Employment size","Total, all employment sizes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Business dynamics measure","January 2022","February 2022","March 2022","April 2022","May 2022","June 2022","July 2022","August 2022","September 2022","October 2022","November 2022","December 2022","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023","October 2023","November 2023","December 2023","January 2024","February 2024","March 2024","April 2024","May 2024","June 2024","July 2024","August 2024","September 2024","October 2024","November 2024","December 2024","January 2025","February 2025","March 2025","April 2025","May 2025","June 2025","July 2025","August 2025","September 2025"
+,"Number",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Active businesses 4","919,211","919,300","921,549","923,946","924,706","926,203","928,489","928,996","929,907","929,571","929,068","930,556","935,462","934,476","928,691","927,479","932,485","934,923","934,611","935,966","934,663","935,243","936,787","936,218","938,954","939,020","938,604","938,274","939,063","936,920","938,209","937,585","937,956","937,437","936,907","938,383","937,654","937,600","936,996","937,702","937,789","938,585","938,865","939,249","940,833"
+"Opening businesses 5","43,701","46,172","45,451","44,241","41,691","42,670","44,559","44,632","42,875","43,396","42,552","42,843","43,995","42,337","39,934","45,294","46,845","45,704","40,272","44,763","44,092","43,550","42,841","44,409","45,656","44,194","43,567","45,389","45,057","43,915","42,980","44,893","46,141","44,337","47,204","49,120","44,542","43,922","44,448","45,437","45,138","44,254","46,633","44,384","45,184"
+"Continuing businesses 6","874,619","873,835","875,259","880,359","882,496","884,012","884,259","883,764","886,387","885,666","887,061","889,004","890,776","892,176","888,849","882,760","885,723","889,031","894,152","891,008","890,166","891,221","894,266","892,838","893,080","895,187","894,767","893,340","894,613","893,152","895,443","892,484","891,724","892,876","890,465","887,730","892,735","893,683","892,008","892,520","893,029","894,115","892,621","894,184","895,615"
+"Closing businesses 7","40,183","45,634","43,036","39,446","42,608","40,503","43,587","43,902","42,376","43,795","42,874","40,499","40,206","43,767","44,395","45,406","42,528","43,522","41,698","43,116","45,856","43,141","41,033","43,606","42,918","44,027","43,632","44,421","44,531","46,213","41,775","45,831","45,592","45,700","47,362","47,859","45,116","44,083","44,972","43,453","45,530","43,846","46,811","44,764","43,190"
+"Reopening businesses 8","27,561","27,807","27,879","28,275","25,977","27,051","27,051","27,082","27,400","26,165","26,195","27,111","27,382","26,088","24,422","29,185","29,142","28,770","26,432","28,150","27,091","27,859","27,526","27,381","29,279","28,007","28,162","28,813","28,275","28,305","30,096","27,784","31,159","29,602","31,068","31,436","29,565","29,936","29,900","28,598","30,130","29,428","30,441","31,266","29,337"
+"Entrants 9","16,140","18,365","17,572","15,966","15,714","15,619","17,508","17,550","15,475","17,231","16,357","15,732","16,613","16,249","15,512","16,109","17,703","16,934","13,840","16,613","17,001","15,691","15,315","17,028","16,377","16,187","15,405","16,576","16,782","15,610","12,884","17,109","14,982","14,735","16,136","17,684","14,977","13,986","14,548","16,839","15,008","14,826","16,192","13,118","15,847"
+"Temporary closures 7 10","28,004","30,281","28,266","26,447","28,788","26,815","25,129","28,372","27,797","27,263","27,650","26,016","26,815","28,670","30,538","29,562","27,275","28,034","26,930","27,401","29,148","28,737","26,271","27,728","24,875","27,077","25,917","26,640","27,135","29,639","24,703","28,415","29,614","27,358","30,535","29,047","25,473","26,823","26,295","..","..","..","..","..",".."
+"Exits 7 11","12,179","15,353","14,770","12,999","13,820","13,688","18,458","15,530","14,579","16,532","15,224","14,483","13,391","15,097","13,857","15,844","15,253","15,488","14,768","15,715","16,708","14,404","14,762","15,878","18,043","16,950","17,715","17,781","17,396","16,574","17,072","17,416","15,978","18,342","16,827","18,812","19,643","17,260","18,677","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated."
+2,"The statistical unit of measures used is the enterprise, which represents the highest level of the Business Register statistical hierarchy. In alignment with the System of National Accounts, it is defined as an institutional unit that directs and controls the allocation of resources relating to its operations, and for which financial statements are maintained from which international transactions, an international investment position and a financial position for the unit can be derived. Enterprises can be corporations, quasi-corporations, institutions, or unincorporated businesses such as sole proprietors or partnerships. For incorporated enterprises, financial statements can be consolidated. While the vast majority of enterprises have operations in a single geographical area and in a single industry, large enterprise can have activities in multiple industries and multiple geographical areas. Enterprises with operations in multiple industries or provinces are counted in each relevant industry and geography. This approach ensures a more accurate reflection of business activity across industries and regions. However, it also means that the sum of disaggregated data (by industry or geography) may exceed totals at the aggregate level, where each enterprise is counted only once."
+3,"Estimates in this table may differ from those in table 33-10-0270-01 due to the adjustment for seasonality applied separately for each series."
+4,"Active businesses are those businesses that reported having one or more employees in a given month."
+5,"Opening businesses are businesses that transition from having no employees in the previous month to having at least one employee in the current month. These instances occur when a new, small firm begins, when a large firm opens a new establishment or when a seasonal firm re-opens."
+6,"Continuing businesses are businesses that have at least one employee in the previous month and at least one employee in the current month."
+7,"For closures and exits, employment size corresponds to the average number of employees over the twelve months preceding the closure or the exit."
+8,"Reopening businesses are defined as opening businesses that were also active in a previous month."
+9,"Entrants are businesses with employment in the current month that were not active in any previous month in the current or previous year."
+10,"A temporary business closure is the difference between closures and exits."
+11,"The definition of exits is based on the Longitudinal Employment Analysis Program (LEAP) annual exits. Because the LEAP definition can require up to 24 months of data to be counted as an exit, projections of exits using predicted growth rates are implemented using a regression model of exits on closures of more than 6 months. As a result, there are no published exits in the last six months."
+
+
+
+"How to cite: Statistics Canada. Table 33-10-0722-01  Experimental estimates for business openings and closures by employment size for Canada, provinces and territories, census metropolitan areas, seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310072201

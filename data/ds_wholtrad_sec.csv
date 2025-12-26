@@ -1,0 +1,46 @@
+﻿"Experimental estimates for business openings and closures by employment size for Canada, provinces and territories, census metropolitan areas, seasonally adjusted 1 2 3"
+"Frequency: Monthly"
+"Table: 33-10-0722-01"
+"Release date: 2025-12-18"
+"Geography: Canada, Province or territory, Census metropolitan area"
+""
+""
+
+"Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Industry","Wholesale trade [41]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Employment size","Total, all employment sizes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Business dynamics measure","January 2022","February 2022","March 2022","April 2022","May 2022","June 2022","July 2022","August 2022","September 2022","October 2022","November 2022","December 2022","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023","October 2023","November 2023","December 2023","January 2024","February 2024","March 2024","April 2024","May 2024","June 2024","July 2024","August 2024","September 2024","October 2024","November 2024","December 2024","January 2025","February 2025","March 2025","April 2025","May 2025","June 2025","July 2025","August 2025","September 2025"
+,"Number",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Active businesses 4","37,582","37,569","37,524","37,578","37,578","37,517","37,520","37,455","37,350","37,305","37,290","37,210","37,206","37,111","36,726E","36,699","36,670","36,661","36,516","36,448","36,360","36,187","36,179","36,076","36,182","36,060","35,901","35,859","35,894","35,684","35,574","35,605","35,568","35,488","35,361","35,290","35,218","35,143","35,109","35,058","34,963","34,897","34,848","34,696","34,641"
+"Opening businesses 5","1,025","1,055","1,016","1,079","993","930","984","952","929","950","981","966","1,138","942","814","1,043","942","1,017","843","928","937","805","870","913","988","908","929","977","955","916","911","1,000","988","939","948","964","897","945","941","928","941","968","1,013","881","891"
+"Continuing businesses 6","36,523","36,497","36,483","36,520","36,587","36,615","36,574","36,530","36,435","36,343","36,294","36,215","36,044","36,136","35,928","35,684","35,733","35,663","35,692","35,537","35,438","35,341","35,277","35,177","35,150","35,120","34,980","34,914","34,947","34,803","34,698","34,632","34,585","34,531","34,391","34,292","34,257","34,182","34,186","34,165","34,025","33,949","33,892","33,810","33,764"
+"Closing businesses 7","928","1,048","1,025","988","1,018","960","969","1,060","1,063","1,015","1,019","1,070","1,077","1,037","1,113","1,062","1,025","1,031","1,010","1,036","1,045","1,025","906","1,001","906","1,025","1,038","1,005","965","1,114","1,017","962","1,029","1,027","1,094","1,055","967","993","947","964","1,123","1,027","1,028","1,069","932"
+"Reopening businesses 8","733","713","693","753","646","671","674","679","688","669","627","691","843","644","560","756","679","717","618","645","651","578","651","646","686","633","648","702","670","651","711","667","684","656","695","704","665","719","715","662","706","714","720","670","666"
+"Entrants 9","292","342","323","326","347","259","310","273","241","281","354","275","295","298","254","287","263","300","225","283","286","227","219","267","302","275","281","275","285","265","200","333","304","283","253","260","232","226","226","266","235","254","293","211","225"
+"Temporary closures 7 10","642","725","717","692","736","670","656","696","720","669","704","752","613E","678","760","730","678","687","654","648","659","668","547","618","519","643","611","654","590","745","672","625","695","676","741","682","603","669","614","..","..","..","..","..",".."
+"Exits 7 11","286","323","308","296","282","290","313","364","343","346","315","318","464E","359","353","332","347","344","356","388","386","357","359","383","387","382","427","351","375","369","345","337","334","351","353","373","364","324","333","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+E, use with caution
+
+
+
+
+Footnotes:
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated."
+2,"The statistical unit of measures used is the enterprise, which represents the highest level of the Business Register statistical hierarchy. In alignment with the System of National Accounts, it is defined as an institutional unit that directs and controls the allocation of resources relating to its operations, and for which financial statements are maintained from which international transactions, an international investment position and a financial position for the unit can be derived. Enterprises can be corporations, quasi-corporations, institutions, or unincorporated businesses such as sole proprietors or partnerships. For incorporated enterprises, financial statements can be consolidated. While the vast majority of enterprises have operations in a single geographical area and in a single industry, large enterprise can have activities in multiple industries and multiple geographical areas. Enterprises with operations in multiple industries or provinces are counted in each relevant industry and geography. This approach ensures a more accurate reflection of business activity across industries and regions. However, it also means that the sum of disaggregated data (by industry or geography) may exceed totals at the aggregate level, where each enterprise is counted only once."
+3,"Estimates in this table may differ from those in table 33-10-0270-01 due to the adjustment for seasonality applied separately for each series."
+4,"Active businesses are those businesses that reported having one or more employees in a given month."
+5,"Opening businesses are businesses that transition from having no employees in the previous month to having at least one employee in the current month. These instances occur when a new, small firm begins, when a large firm opens a new establishment or when a seasonal firm re-opens."
+6,"Continuing businesses are businesses that have at least one employee in the previous month and at least one employee in the current month."
+7,"For closures and exits, employment size corresponds to the average number of employees over the twelve months preceding the closure or the exit."
+8,"Reopening businesses are defined as opening businesses that were also active in a previous month."
+9,"Entrants are businesses with employment in the current month that were not active in any previous month in the current or previous year."
+10,"A temporary business closure is the difference between closures and exits."
+11,"The definition of exits is based on the Longitudinal Employment Analysis Program (LEAP) annual exits. Because the LEAP definition can require up to 24 months of data to be counted as an exit, projections of exits using predicted growth rates are implemented using a regression model of exits on closures of more than 6 months. As a result, there are no published exits in the last six months."
+
+
+
+"How to cite: Statistics Canada. Table 33-10-0722-01  Experimental estimates for business openings and closures by employment size for Canada, provinces and territories, census metropolitan areas, seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310072201
