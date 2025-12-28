@@ -1,4 +1,4 @@
-year,closures,closures_lag1
-2023,30790,30115.0
-2024,33524,30790.0
-2025,24420,33524.0
+industry,year,closures,closures_lag1
+Accomodation and Food Services,2023,30790.0,30115.0
+Accomodation and Food Services,2024,33524.0,30790.0
+Accomodation and Food Services,2025,24420.0,33524.0
