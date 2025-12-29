@@ -1,0 +1,21 @@
+sector_code,sector,avg_risk_prob,high_risk_rate,avg_insolvencies,risk_label
+31,Manufacturing,0.9516666666666667,1.0,290.0,High Risk
+23,Construction,0.9133333333333334,1.0,498.3333333333333,High Risk
+53,Real Estate and Rental and Leasing,0.9016666666666667,1.0,123.0,High Risk
+81,Other Services (except Public Administration),0.88,1.0,260.6666666666667,High Risk
+41,Wholesale Trade,0.8766666666666666,1.0,186.0,High Risk
+48,Transportation and Warehousing,0.8716666666666667,1.0,302.3333333333333,High Risk
+72,Accommodation and Food Services,0.7933333333333333,1.0,574.3333333333334,High Risk
+54,"Professional, Scientific and Technical Services",0.755,1.0,275.6666666666667,High Risk
+44,Retail Trade,0.7399999999999999,1.0,439.3333333333333,High Risk
+56,"Administrative and Support, Waste Management and Remediation Services",0.7216666666666667,0.6666666666666666,186.66666666666666,High Risk
+71,"Arts, Entertainment and Recreation",0.6849999999999999,1.0,99.0,Medium Risk
+51,Information and Cultural Industries,0.595,0.6666666666666666,81.33333333333333,Medium Risk
+55,Management of Companies and Enterprises,0.5516666666666666,0.6666666666666666,93.0,Medium Risk
+52,Finance and Insurance,0.44166666666666665,0.3333333333333333,51.333333333333336,Medium Risk
+62,Health Care and Social Assistance,0.37333333333333335,0.6666666666666666,89.66666666666667,Low Risk
+91,Public Administration,0.295,0.3333333333333333,10.0,Low Risk
+22,Utilities,0.25833333333333336,0.0,6.666666666666667,Low Risk
+61,Educational Services,0.20666666666666667,0.0,43.666666666666664,Low Risk
+11,"Agriculture, Forestry, Fishing and Hunting",0.12833333333333333,0.0,66.33333333333333,Low Risk
+21,Mining and Oil and Gas Extraction,0.07833333333333332,0.0,21.0,Low Risk
