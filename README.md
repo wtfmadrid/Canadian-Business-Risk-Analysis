@@ -8,6 +8,7 @@ Link for Overview of Dashboard: https://drive.google.com/file/d/1SlmuN2gxodyB7_q
 
 This project analyzes sector-level business risk in Canada by combining historical insolvency data with macroeconomic indicators.
 Using machine learning, sectors are classified into Low, Medium, and High Risk categories, and results are presented through an interactive Power BI dashboard for decision-making and policy analysis.
+Data is obtained from Statistics Canada and Opengovernment data portal
 
 The objective is not to forecast exact insolvency counts, but to identify structurally vulnerable sectors based on learned patterns from historical data.
 
@@ -195,4 +196,5 @@ Jupyter Notebooks
 - Credit policy evaluation
 
 - Economic research
+
 
