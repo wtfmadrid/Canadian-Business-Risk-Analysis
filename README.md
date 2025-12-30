@@ -2,6 +2,8 @@
 
 Sector-Level Insolvency Risk Classification & Dashboard
 
+Link for Overview of Dashboard: https://drive.google.com/file/d/1SlmuN2gxodyB7_q_S6zj_Sg5xsE0Zun1/view?usp=sharing
+
 📌 Project Overview
 
 This project analyzes sector-level business risk in Canada by combining historical insolvency data with macroeconomic indicators.
@@ -193,3 +195,4 @@ Jupyter Notebooks
 - Credit policy evaluation
 
 - Economic research
+
